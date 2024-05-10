@@ -4,12 +4,12 @@
 Madhav Store wants to create an interactive dashboard so that they can easily track & analyze their online sales across India.
 
 # Dashboard
-![Dashboard-img](https://github.com/himanshu-banodha/Madhav-e-commerce-sales-dashboard/blob/main/Madhav%20E-commerce%20Sales%20Dashboard.pdf)
+![Madhav Ecommerce Dashboard](https://github.com/himanshu-banodha/Madhav-Ecommerce-sales-data-analysis/blob/main/Madhav%20E-commerce%20Sales%20Dashboard.pdf)
 
 ## Dataset information:
 For this project we have 2 tables: 
-* Details
-* Orders
+* [Details](https://github.com/himanshu-banodha/Madhav-Ecommerce-sales-data-analysis/blob/main/Dataset/Details.csv)
+* [Orders](https://github.com/himanshu-banodha/Madhav-Ecommerce-sales-data-analysis/blob/main/Dataset/Orders.csv)
 
 ## Questions (KPIs):
 * Which category of product the customer orders the most (Clothing, Electronics, Furniture)?
